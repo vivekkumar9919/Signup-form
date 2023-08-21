@@ -1,0 +1,23 @@
+.LoginContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: azure;
+  height: 100vh;
+}
+
+.loginBox{
+  width: 400px;
+  border: 1px solid gray;
+  padding: 20px;
+}
+.heading{
+  font-size: 30px;
+  text-align: center;
+
+}
+
+.formBtn{
+  margin-bottom: 20px;
+  width: 100%;
+}
